@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39370" started-at="2020-09-07T16:42:35Z" finished-at="2020-09-07T16:43:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39370" started-at="2020-09-07T16:42:35Z" finished-at="2020-09-07T16:43:15Z">
+      <class name="com.TestCases.ClarionTest">
+        <test-method status="PASS" signature="Init()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Init" is-config="true" duration-ms="7522" started-at="2020-09-07T22:12:35Z" finished-at="2020-09-07T22:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="VerifyBlankCreds()[pri:1, instance:com.TestCases.ClarionTest@3a82f6ef]" name="VerifyBlankCreds" duration-ms="711" started-at="2020-09-07T22:12:43Z" finished-at="2020-09-07T22:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBlankCreds -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Close" is-config="true" duration-ms="770" started-at="2020-09-07T22:12:44Z" finished-at="2020-09-07T22:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="Init()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Init" is-config="true" duration-ms="4210" started-at="2020-09-07T22:12:44Z" finished-at="2020-09-07T22:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="VerifyLogin()[pri:2, instance:com.TestCases.ClarionTest@3a82f6ef]" name="VerifyLogin" duration-ms="1790" started-at="2020-09-07T22:12:49Z" finished-at="2020-09-07T22:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Close" is-config="true" duration-ms="818" started-at="2020-09-07T22:12:50Z" finished-at="2020-09-07T22:12:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="Init()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Init" is-config="true" duration-ms="4330" started-at="2020-09-07T22:12:51Z" finished-at="2020-09-07T22:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="AddPromise()[pri:3, instance:com.TestCases.ClarionTest@3a82f6ef]" name="AddPromise" duration-ms="3732" started-at="2020-09-07T22:12:56Z" finished-at="2020-09-07T22:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPromise -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Close" is-config="true" duration-ms="873" started-at="2020-09-07T22:12:59Z" finished-at="2020-09-07T22:13:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="Init()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Init" is-config="true" duration-ms="4580" started-at="2020-09-07T22:13:00Z" finished-at="2020-09-07T22:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="VerifyPromise()[pri:4, instance:com.TestCases.ClarionTest@3a82f6ef]" name="VerifyPromise" duration-ms="8163" started-at="2020-09-07T22:13:05Z" finished-at="2020-09-07T22:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPromise -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.TestCases.ClarionTest@3a82f6ef]" name="Close" is-config="true" duration-ms="1786" started-at="2020-09-07T22:13:13Z" finished-at="2020-09-07T22:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- com.TestCases.ClarionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
